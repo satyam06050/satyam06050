@@ -29,6 +29,27 @@ llm.invoke("Generate a bio")
   <em>"Build things that solve real problems. Everything else follows."</em>
 </p>
 
+</div>
+
+## ⚡ The Arsenal
+```python
+class Satyam:
+    languages = ["Python","Dart","SQL"]
+
+    ai = ["LangChain", "LangGraph", "Cromadb"]
+
+    backend = ["FastAPI", "Node.js", "PostgreSQL", "Supabase"]
+
+    mobile = ["Flutter", "Firebase"]
+
+    tools = ["Docker", "AWS", "Git", "GitHub", "Vercel"]
+
+    building = ["AI Interview Platform", "KIIT Sync", "NeuralNavAI"]
+
+```
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/satyam06050/satyam06050/output/github-snake-dark.svg">
@@ -45,31 +66,21 @@ llm.invoke("Generate a bio")
 <div align="center">
 
 <a href="https://github.com/satyam06050/IntervAI-AI-Interview-Platform">
-  <img src="assets/icons/ai-interview-platform.png" width="90%" alt="AI Interview Platform"/>
+  <img src="assets/icons/ai-interview-platform.png" width="100%" alt="AI Interview Platform"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/satyam06050/IntervAI-AI-Interview-Platform"><b>🎤 AI Interview Platform</b></a>
+<a href="https://github.com/satyam06050/IntervAI-AI-Interview-Platform">
+  <b>🎤 AI Interview Platform</b>
+</a>
 
 <br/>
 
-<sub>Real-time AI mock interview platform featuring voice conversations, resume-aware interviews, AI feedback, and agentic workflows.</sub>
+<sub>
+Real-time AI mock interview platform featuring voice conversations, resume-aware interviews, AI feedback, and agentic workflows.
+</sub>
 
 </div>
-
----
-
-## 🏆 Major Wins
-
-🥈 **HackerRank Orchestrate 2026** — Built a multi-modal AI insurance claim review pipeline using LLMs, computer vision, and structured reasoning.
-
-🚀 **Amazon ML Summer School 2026** — Selected participant to study modern Machine Learning and Generative AI.
-
-💻 **Top 200 - HackerRank Orchestrate** — Ranked among the top participants in the competition.
-
-🎓 **B.Tech Computer Science (KIIT University)** — Current CGPA **8.6/10**, specializing in AI Systems, Backend Engineering, and Distributed Systems.
-
-🌟 **Open Source Developer** — Built multiple production-ready AI, Flutter, and Full-Stack applications.
 
 ---
