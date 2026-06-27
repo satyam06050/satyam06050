@@ -84,3 +84,20 @@ Real-time AI mock interview platform featuring voice conversations, resume-aware
 </div>
 
 ---
+## ✅ Built & Shipped
+
+- **🎤 AI Interview Platform 🌟**: Real-time AI mock interview platform with voice conversations, resume-aware interviews, AI evaluation, and agentic workflows. [Link ↗](https://github.com/satyam06050/IntervAI-AI-Interview-Platform)
+
+- **📱 KIIT Sync**: Campus companion app featuring timetable management, attendance tracking, subject analytics, and productivity tools for KIIT students. [Link ↗](https://github.com/satyam06050/KIIT-Sync)
+
+- **🧠 NeuralNavAI**: AI-powered smart navigation assistant built with Flutter, integrating real-time guidance and intelligent interaction. [Link ↗](https://github.com/satyam06050/NeuralNavAI)
+
+- **📂 FileDoc**: Multi-role document management platform consisting of User, Admin, and Mini Admin applications with a scalable backend architecture. [Link ↗](https://github.com/satyam06050/FileDoc)
+
+
+
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=satyam06050&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=00D9FF&fire=00D9FF&currStreakLabel=9D4EDD&sideLabels=FF4D94&sideNums=FF4D94&dates=A8FFF7&timezone=Asia%2FKolkata" />
+<br/><br/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyam06050&theme=radical" />
+</div>
