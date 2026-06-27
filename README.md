@@ -95,9 +95,11 @@ Real-time AI mock interview platform featuring voice conversations, resume-aware
 - **📂 FileDoc**: Multi-role document management platform consisting of User, Admin, and Mini Admin applications with a scalable backend architecture. [Link ↗](https://github.com/satyam06050/FileDoc)
 
 
+---
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=satyam06050&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=00D9FF&fire=00D9FF&currStreakLabel=9D4EDD&sideLabels=FF4D94&sideNums=FF4D94&dates=A8FFF7&timezone=Asia%2FKolkata" />
-<br/><br/>
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyam06050&theme=radical" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=satyam06050&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=00D9FF&fire=00D9FF&currStreakLabel=9D4EDD&sideLabels=FF4D94&sideNums=FF4D94&dates=A8FFF7&timezone=Asia%2FKolkata" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyam06050&theme=radical" />
 </div>
+
+---
